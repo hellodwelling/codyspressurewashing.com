@@ -32,13 +32,6 @@
     </url>
 
     <url>
-        <loc>https://codyspressurewashing.com/gallery-Exterior-Detailing</loc>
-        <lastmod>2022-05-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://codyspressurewashing.com/gallery-Interior-Detailing</loc>
         <lastmod>2022-05-09</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,21 +60,14 @@
     </url>
 
     <url>
+        <loc>https://codyspressurewashing.com/gallery-Exterior-Detailing</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://codyspressurewashing.com/service-Pressure-Washing</loc>
-        <lastmod>2022-05-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://codyspressurewashing.com/service-Roof-Cleaning</loc>
-        <lastmod>2022-05-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://codyspressurewashing.com/service-Fence-Washing</loc>
         <lastmod>2022-05-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -116,6 +102,13 @@
     </url>
 
     <url>
+        <loc>https://codyspressurewashing.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://codyspressurewashing.com/service-Hardscape-Cleaning</loc>
         <lastmod>2022-05-09</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,6 +117,13 @@
 
     <url>
         <loc>https://codyspressurewashing.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://codyspressurewashing.com/service-Fence-Washing</loc>
         <lastmod>2022-05-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
